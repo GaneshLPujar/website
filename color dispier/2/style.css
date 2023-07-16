@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+
+.one{
+    background-color: black;
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one-background{
+    background-color: rgb(112, 112, 195);
+    width: 90%;
+    height: 100%;
+    display: flex;
+}
+
+.background-a{
+    background-color: antiquewhite;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.profile-name{
+    /* background-color: blue; */
+    /* display: flex; */
+    height: 200px;
+    margin-left: 10px;
+
+}
+
+.name{
+    /* background-color: aliceblue; */
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.profetion{
+    /* background-color: white; */
+    margin-top: -20px;
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 17px;
+    color: rgb(47, 46, 46);
+}
+
+
+/* ----------------------------------------------------------------*/
+
